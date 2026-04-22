@@ -1,0 +1,4 @@
+tipe data :
+- Angka
+    - interger/bigint : bilangan bulat [0,1,2,3,4]
+    - float/double    : bilangan desimal/pecahan [2.3, 7.5,]
